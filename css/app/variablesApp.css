@@ -1,0 +1,6 @@
+:root {
+    --main-color: #753eb4;
+    --max-width: 1100px;
+    --box-spacing: 75px;
+    --transition: 250ms ease-in-out;
+}
